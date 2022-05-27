@@ -11,4 +11,7 @@ no_moviments_ilegals/standard_reward/ --> directori amb els agents entrenats amb
                                           fora del directori hi han proves amb la recompensa.
 
 no_moviments_ilegals/standard_reward/multi --> directori amb agents a taules amb més d'un contrincant,
-                                               fora d'aquest directori hi han agents a taules amb un contrincant
+                                               fora d'aquest directori hi han agents a taules amb un contrincant, o amb més d'un contrincant i eqiuty
+no_moviments_ilegals/standard_reward/equity --> directori amb agents amb equity
+                                                fora d'aquest directori hi han agents random
+no_moviments_ilegals/standard_reward/equity/multi --> directori amb agents amb equity i més d'un contrincant
